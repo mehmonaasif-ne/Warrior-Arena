@@ -1,0 +1,6 @@
+{
+  "name": "Warrior Arena",
+  "description": "Warrior Arena - The ultimate arcade street fighting game by Mehmona Jabeen featuring intense combo combat, male and female warriors, weapons and outfits, voice chat, Gemini AI battle commentary, monthly rewards, and global world rankings. Playable on mobile, laptop, and PC with Play Store PWA install support.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

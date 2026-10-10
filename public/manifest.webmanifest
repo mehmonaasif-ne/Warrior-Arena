@@ -1,0 +1,28 @@
+{
+  "id": "/",
+  "name": "Warrior Arena Fighting Game",
+  "short_name": "WarriorArena",
+  "description": "Arcade street fighting game by Mehmona Jabeen with combos, rankings, outfits, and voice chat.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#0b0514",
+  "theme_color": "#9333ea",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["games", "action", "entertainment"],
+  "screenshots": []
+}
